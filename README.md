@@ -1,4 +1,4 @@
-![alt text](branding/planeti.png)
+![alt text](branding/banner.svg)
 
 
 ## Project Izer
